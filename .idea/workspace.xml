@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de3a5825-fc2e-41d9-b9ff-ca3599dc7054" name="Changes" comment="importing libraries and getting the info from csv to list of objects. getting current day and month and check if there are birthdays today">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/letter_templates/letter_1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/letter_templates/letter_1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/letter_templates/letter_2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/letter_templates/letter_2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/letter_templates/letter_3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/letter_templates/letter_3.txt" afterDir="false" />
+    <list default="true" id="de3a5825-fc2e-41d9-b9ff-ca3599dc7054" name="Changes" comment="getting a random number from 1 to 3 for a random letter each time, and get the letter and change the name in the letter to the one who has birthday">
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,12 +79,21 @@
       <option name="project" value="LOCAL‎" />
       <updated>1718960074248</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL‎-00004" summary="getting a random number from 1 to 3 for a random letter each time, and get the letter and change the name in the letter to the one who has birthday">
+      <option name="closed" value="true" />
+      <created>1718960672756</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL‎-00004" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1718960672756</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="importing libraries and getting the info from csv to list of objects. getting current day and month and check if there are birthdays today" />
-    <option name="LAST_COMMIT_MESSAGE" value="importing libraries and getting the info from csv to list of objects. getting current day and month and check if there are birthdays today" />
+    <MESSAGE value="getting a random number from 1 to 3 for a random letter each time, and get the letter and change the name in the letter to the one who has birthday" />
+    <option name="LAST_COMMIT_MESSAGE" value="getting a random number from 1 to 3 for a random letter each time, and get the letter and change the name in the letter to the one who has birthday" />
   </component>
 </project>
