@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de3a5825-fc2e-41d9-b9ff-ca3599dc7054" name="Changes" comment="getting a random number from 1 to 3 for a random letter each time, and get the letter and change the name in the letter to the one who has birthday">
+    <list default="true" id="de3a5825-fc2e-41d9-b9ff-ca3599dc7054" name="Changes" comment="after getting the letter ready start a new connection for smtp and send in email the birthday wish">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,13 +88,22 @@
       <option name="project" value="LOCAL‎" />
       <updated>1718960672756</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL‎-00005" summary="after getting the letter ready start a new connection for smtp and send in email the birthday wish">
+      <option name="closed" value="true" />
+      <created>1718961121765</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL‎-00005" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1718961121765</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="importing libraries and getting the info from csv to list of objects. getting current day and month and check if there are birthdays today" />
     <MESSAGE value="getting a random number from 1 to 3 for a random letter each time, and get the letter and change the name in the letter to the one who has birthday" />
-    <option name="LAST_COMMIT_MESSAGE" value="getting a random number from 1 to 3 for a random letter each time, and get the letter and change the name in the letter to the one who has birthday" />
+    <MESSAGE value="after getting the letter ready start a new connection for smtp and send in email the birthday wish" />
+    <option name="LAST_COMMIT_MESSAGE" value="after getting the letter ready start a new connection for smtp and send in email the birthday wish" />
   </component>
 </project>
